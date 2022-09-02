@@ -1,0 +1,128 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UserIdentityHomework
+build_property.RootNamespace = UserIdentityHomework
+build_property.ProjectDir = C:\Users\tatja\OneDrive\Desktop\Full stack\Project week 6\UserIdentityHomework\UserIdentityHomework\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\tatja\OneDrive\Desktop\Full stack\Project week 6\UserIdentityHomework\UserIdentityHomework
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/IndividualTruck/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kaXZpZHVhbFRydWNrXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/IndividualTruck/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kaXZpZHVhbFRydWNrXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/IndividualTruck/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kaXZpZHVhbFRydWNrXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/IndividualTruck/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kaXZpZHVhbFRydWNrXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/IndividualTruck/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kaXZpZHVhbFRydWNrXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/TruckCustomer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJ1Y2tDdXN0b21lclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/TruckCustomer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJ1Y2tDdXN0b21lclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/TruckCustomer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJ1Y2tDdXN0b21lclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/TruckCustomer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJ1Y2tDdXN0b21lclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/TruckCustomer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJ1Y2tDdXN0b21lclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/TruckRental/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJ1Y2tSZW50YWxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/TruckRental/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJ1Y2tSZW50YWxcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/TruckRental/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJ1Y2tSZW50YWxcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/TruckRental/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJ1Y2tSZW50YWxcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/TruckRental/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJ1Y2tSZW50YWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fjakhzn9l8

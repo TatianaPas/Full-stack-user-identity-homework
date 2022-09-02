@@ -1,0 +1,101 @@
+﻿@model IEnumerable<UserIdentityHomework.Models.DB.IndividualTruck>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Colour)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RegistrationNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WofexpiryDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RegistrationExpiryDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateImported)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ManufactureYear)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FuelType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Transmission)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DailyRentalPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AdvanceDepositRequired)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TruckModel)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Colour)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegistrationNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WofexpiryDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegistrationExpiryDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateImported)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ManufactureYear)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FuelType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Transmission)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DailyRentalPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AdvanceDepositRequired)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TruckModel.ModelId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.TruckId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.TruckId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.TruckId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
