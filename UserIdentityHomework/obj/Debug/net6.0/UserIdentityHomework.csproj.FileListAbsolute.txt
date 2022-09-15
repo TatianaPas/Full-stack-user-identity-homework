@@ -268,3 +268,4 @@ C:\Users\tatja\OneDrive\Desktop\Full stack\Project week 6\UserIdentityHomework\U
 C:\Users\tatja\OneDrive\Desktop\Full stack\Project week 6\UserIdentityHomework\UserIdentityHomework\obj\Debug\net6.0\UserIdentityHomework.pdb
 C:\Users\tatja\OneDrive\Desktop\Full stack\Project week 6\UserIdentityHomework\UserIdentityHomework\obj\Debug\net6.0\UserIdentityHomework.genruntimeconfig.cache
 C:\Users\tatja\OneDrive\Desktop\Full stack\Project week 6\UserIdentityHomework\UserIdentityHomework\obj\Debug\net6.0\ref\UserIdentityHomework.dll
+C:\Users\tatja\OneDrive\Desktop\Full stack\Project week 6\UserIdentityHomework\UserIdentityHomework\bin\Debug\net6.0\wwwroot\images\logo.png

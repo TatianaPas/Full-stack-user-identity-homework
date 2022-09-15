@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\tatja\OneDrive\Desktop\Full stack\Project week 6\UserIdentityHomework\UserIdentityHomework
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/tatja/OneDrive/Desktop/Full stack/Project week 6/UserIdentityHomework/UserIdentityHomework/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

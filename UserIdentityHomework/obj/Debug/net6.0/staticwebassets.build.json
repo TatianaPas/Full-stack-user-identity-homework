@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bN9f8EJILdEwWDzvIsG+AeOMD6jwZKwIhVXLSwcOFsU=",
+  "Hash": "pu0uxyEDy5aWjFfGCy9i1hhDGyz4SvdzkKupKzW+dYs=",
   "Source": "UserIdentityHomework",
   "BasePath": "_content/UserIdentityHomework",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\tatja\\OneDrive\\Desktop\\Full stack\\Project week 6\\UserIdentityHomework\\UserIdentityHomework\\wwwroot\\images\\logo.png",
+      "SourceId": "UserIdentityHomework",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tatja\\OneDrive\\Desktop\\Full stack\\Project week 6\\UserIdentityHomework\\UserIdentityHomework\\wwwroot\\",
+      "BasePath": "_content/UserIdentityHomework",
+      "RelativePath": "images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
       "Identity": "C:\\Users\\tatja\\OneDrive\\Desktop\\Full stack\\Project week 6\\UserIdentityHomework\\UserIdentityHomework\\wwwroot\\js\\site.js",
